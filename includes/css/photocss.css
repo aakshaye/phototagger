@@ -1,0 +1,77 @@
+.container{nam
+	width:100%;
+	height:100%;
+	background:grey;	
+}
+.con{
+	margin:0px auto;
+	width:1200px;
+	
+}
+.head{
+	padding:20px 500px 20px 500px;
+}
+.heading{
+	font:30px "Times New Roman","Arial Bold";
+	color:blue;
+}
+.image{
+	border:5px solid black;
+	width:1024px;
+	height:768px;
+	margin:80px 80px 0px 80px;
+}
+.tagger{
+	width:100px;
+	position:absolute;
+	border:1px solid black;
+}
+.box{
+
+	width:99px;
+	height:99px;
+	border:1px solid blue;
+}
+#text{
+	width:100px;
+	border:none;
+}
+.names{
+	width:1198px;
+	border:1px solid black; 
+	height:200px;
+}
+.list{
+	margin:10px;
+	border:1px solid black;
+	padding:5px;
+	width:100px;
+	float:left;
+}
+#na{
+	float:right;
+}
+.tagbox{
+	width:99px;
+	height:99px;
+	border:2px solid grey;
+	position:absolute;
+}
+.sugg{
+	width:99px;
+	height:20px;
+	display:none;
+	/*border:1px solid black;*/
+	position:relative;
+}
+.suggest{
+	background:white;
+	border:1px solid black;
+}	
+
+.suggest a{
+	text-decoration:none;
+}
+.suggest a:link{
+	color:black;
+}
